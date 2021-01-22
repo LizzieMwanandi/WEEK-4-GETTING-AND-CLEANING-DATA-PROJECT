@@ -3,14 +3,7 @@ ETTING AND CLEANING DATA PROJECT
 
 The goal of this project was to prepare tidy data that can be used for later analysis
 
-The tidy data set  is called tidy data.txt and the step by step of implementation of R script called run_analysis.R that does the following. 
-
-1.Merges the training and the test sets to create one data set.
-2.Extracts only the measurements on the mean and standard deviation for each measurement. 
-3.Uses descriptive activity names to name the activities in the data set
-4.Appropriately labels the data set with descriptive variable names. 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-
+#################################################################################################################################################################3
 The Dataset was downloaded from "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
 THE TITLE OF THE DATASET IS HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 
