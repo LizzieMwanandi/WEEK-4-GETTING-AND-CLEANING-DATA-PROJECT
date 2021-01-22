@@ -1,9 +1,8 @@
 # WEEK-4-GETTING-AND-CLEANING-DATA-PROJECT
-ETTING AND CLEANING DATA PROJECT
+
 
 The goal of this project was to prepare tidy data that can be used for later analysis
 
-#################################################################################################################################################################3
 The Dataset was downloaded from "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
 THE TITLE OF THE DATASET IS HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 
