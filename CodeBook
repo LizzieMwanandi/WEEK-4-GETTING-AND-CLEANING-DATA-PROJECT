@@ -1,1 +1,24 @@
+CODE BOOK
+1.Merging Data
+  1.1 Create a folder in which the data will downloaded
+       1.1.1 Downloading the file
+       1.1.2 Unzip files and list files
+  1.2 Read features files
+  1.3 Read Subject files
+  1.4 Read Activity files
+  1.5 Read Features Names
+  1.6 Read Activity labels
+  1.7 Merge Data the three Data frames
+  1.8 Rename Columns in Activity_Data and Activity_Labels
+     1.8.0 Get factor of Activity_names
+  1.9 Rename Columns
+      Rename FeaturesData columns using columns from FeaturesNames
+      Rename SubjectData columns
+  1.9.0 Create one large Dataset with only these variables: SubjectData,  Activity,  FeaturesData
+2. Extracts the measurements on the mean and standard deviation for each measurement.
+3.Uses descriptive activity names to name the activities in the data set
+4.Rename the columns of the large dataset using more descriptive activity names
+5. Create a second, independent tidy data set with the average of each variable for each activity and each subject
+   5.1 Save this tidy dataset to local file
 
+     
