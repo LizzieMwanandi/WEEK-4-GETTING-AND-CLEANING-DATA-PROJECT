@@ -1,4 +1,16 @@
-CODE BOOK
+##THIS IS THE CODE BOOK FOR GETTING AND CLEANING DATA PROJECT
+## In order to get to the tidydata.txt;
+   a. Download the file from the link and unzipinthe working directory of the R-Studio
+   b. Run the R Script
+The Source Data
+The source data are from the Human Activity Recognition Using Smartphones Data Set.
+A full description is available at the site where the data was obtained;
+     http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Here are the data for the project;
+     https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+About R script
+File with R code "run_analysis.R" performs the 5 following steps (in accordance assigned task of course work):
 1.Merging Data
   1.1 Create a folder in which the data will downloaded
        1.1.1 Downloading the file
